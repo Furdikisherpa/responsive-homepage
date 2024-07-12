@@ -1,4 +1,4 @@
-
+import('tailwindcss').Config
 import './Navbar.css';
 import { NavLink } from 'react-router-dom';
 import logo from '../../assets/Logo.png'
